@@ -1,2 +1,3 @@
 ---
 # defaults file for donfilemon.grafana
+graphana_version: 5.2.1
